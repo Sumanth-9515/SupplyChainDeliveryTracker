@@ -1,4 +1,4 @@
-// src/screens/OrderDetailScreen.tsx
+
 import React from 'react';
 import {
   View, Text, TouchableOpacity, StyleSheet,
